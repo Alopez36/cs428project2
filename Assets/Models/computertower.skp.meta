@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fc7996713d74bde41a99777739911784
+guid: 52f3c1d4e10bca547a804a267923ed85
 SketchUpImporter:
   serializedVersion: 26
   internalIDToNameTable: []
@@ -95,8 +95,8 @@ SketchUpImporter:
   assetBundleVariant: 
   generateBackFace: 1
   mergeCoplanarFaces: 0
-  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d000000
+  selectedNodes: 0000000001000000020000000300000004000000
   assetHash:
     serializedVersion: 2
-    Hash: 92f3f7c18a798b225f0506cf0c413b2d
+    Hash: 87b2ab2ec2338949f4d95ae573456143
   fileUnit: 0
